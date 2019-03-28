@@ -1,0 +1,4 @@
+
+    Pre-conditions are the things that must be true before a method is called. The method tells clients "this is what I expect from you".
+    Post-conditions are the things that must be true after the method is complete. The method tells clients "this is what I promise to do for you".
+    Invariants are the things that are always true and won't change. The method tells clients "if this was true before you called me, I promise it'll still be true when I'm done".
